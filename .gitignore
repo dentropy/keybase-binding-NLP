@@ -4,3 +4,4 @@ out-bak
 *sqlite
 *db
 *.sqlite-journal
+.ipynb_checkpoints
